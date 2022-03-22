@@ -1,7 +1,7 @@
 ## Hi I'm Luong Hai :dragon_face:
 
 <!-- ![Gaboso](https://github.com/Gaboso/Gaboso/blob/master/github_cover.png "Gaboso") -->
-- 👨‍🎓 Studying Hanoi University of Science and Technology 
+- 👨‍🎓 Studying at Hanoi University of Science and Technology 
 - :computer: Software Engenieer 
 - :desert_island: Living in Hanoi
 
