@@ -1,8 +1,8 @@
-## Hi I'm Hai Nguyen :dragon_face:
+## Hi, I'm Hai Nguyen :dragon_face:
 
 <!-- ![Gaboso](https://github.com/Gaboso/Gaboso/blob/master/github_cover.png "Gaboso") -->
 - 👨‍🎓 Studying at Hanoi University of Science and Technology 
-- :computer: Software Engenieer 
+- :computer: Software Engineer 
 - :desert_island: Living in Hanoi
 
 ### My Tech Stack
