@@ -1,10 +1,10 @@
 ## こんにちは, I'm Hai Nguyen :dragon_face:
 
 <!-- ![Gaboso](https://github.com/Gaboso/Gaboso/blob/master/github_cover.png "Gaboso") -->
-- 👨‍🎓 Graduated at Hanoi University of Science and Technology 
-- :computer: Software Engineer 
-- :desert_island: Living in Hanoi
-
+- 👨‍🎓 Graduated from Hanoi University of Science and Technology 
+- :computer: Researcher
+- :desert_island: Living in Hanoi, Vietnam
+<!--
 ### My Tech Stack
 
 ![C/C++](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -19,7 +19,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
+-->
 
 
 ---
